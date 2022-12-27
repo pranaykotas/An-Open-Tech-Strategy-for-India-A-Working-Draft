@@ -1,5 +1,5 @@
 ## Executive Summary 
-This is a working draft that we would like people to contribute to. In the spirit of open source, we invite contributors to build on and add to the ideas in this document. If you have any feedback or would like to contribute to any of the sections in this document, please get in touch with us with your comments at research@takshashila.org.in
+This is a working draft that we would like people to contribute to. In the spirit of open source, we invite contributors to build on and add to the ideas in this document. If you have any feedback or would like to contribute to any of the sections in this document, please contact us at research@takshashila.org.in or raise it as an issue on this [repository](https://github.com/TakshashilaInst/An-Open-Tech-Strategy-for-India-A-Working-Draft.git)
 
 "Open Tech" refers to technology that is transparent, inclusive and embodies the freedom to use, study, modify and redistribute to the maximum extent possible. 
 
