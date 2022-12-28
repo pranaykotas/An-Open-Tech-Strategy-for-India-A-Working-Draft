@@ -123,11 +123,11 @@ A recent study shows that 97% of commercial software contains OSS[2]. This incre
 
 ### RECOMMENDATIONS
 
+#### Adopt Open-Source First Policy in Government Procurement 
+
 Union and state government IT procurement policies should mandate that all software purchased through tax-payer funding be open-source. Proprietary and closed technologies should be considered only where adequate OSS technologies are not an option. 
 
 The government being a significant purchaser of technology and IT services, such a mandate can go a long way in creating the right incentives for the entire OSS ecosystem. Current union government policies [3] favour the adoption of OSS but do not mandate it. 
-
-#### Adopt Open-Source First Policy in Government Procurement 
 
 An open-source first policy mandate will have several positive spillover effects, such as:
 
@@ -235,6 +235,7 @@ DARPA funded the Metal Oxide Silicon Implementation Service (MOSIS), which allow
 Most of the standards that govern the internet and other technologies are developed by Standards Development Organisations (SDOs). Large private tech companies and government agencies wield significant influence over these bodies, which lack representation from non-western countries [14]. 
 
 India-specific requirements, which could be unique to the demography and economic conditions of the subcontinent, must be represented at these fora so we are not at a disadvantage.
+
 Open standards give users permission to study, copy, use and distribute the technology. It is developed and maintained openly with a complete implementation accessible to all.
 
 Note: Open standards bring in interoperability, efficiency, competition, choice, ease of access, cost savings, and a level playing field. The government must ensure that the standards adopted are fair and transparent, as civil society is underrepresented in the standardisation process.
