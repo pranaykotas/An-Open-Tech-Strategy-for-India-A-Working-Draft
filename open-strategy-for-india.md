@@ -218,7 +218,7 @@ OSH should be a vital pillar of the India-EU Trade and Technology Council, as th
 
 Award grants for creating the next generation of open-source EDA tools. Identify crucial toolchains required for chips used in critical applications and fund research to develop open-source alternatives.
 
-Open-source EDA tools can also be brought under the Design Linked Incentive (DLI) Scheme proposed by the government in December 2021.
+Open-source EDA tools can also be brought under the Design Linked Incentive (DLI) Scheme proposed by the government in December 2021. 
 
 ### RECOMMENDATIONS
 
